@@ -1,0 +1,26 @@
+.homeContainer {
+  background-image: url("../../assets/background_2.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: 100%;
+  align-items: center;
+  display: flex;
+  overflow-y: hidden;
+}
+
+.btn {
+  width: 200px;
+  height: 50px;
+  background-color: #eaf8ff;
+  font-size: 20px;
+  font-weight: bold;
+  border-radius: 25px;
+}
+
+.heading {
+  color: white;
+}
+
+.heading h1 {
+  font-size: 65px;
+}
